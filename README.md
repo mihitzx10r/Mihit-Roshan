@@ -7,10 +7,9 @@ I’m passionate about building intelligent systems that combine **machine learn
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Python, Java, SQL, MATLAB  
+- **Languages:** Python, Java, SQL, MATLAB 
 - **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, PySpark  
-- **Big Data Tools:** Apache Spark, Hadoop  
-- **Other Tools:** Git, Docker, Jupyter, AWS/GCP, Linux  
+- **Big Data Tools:** Apache Spark, Hadoop    
 
 ---
 
